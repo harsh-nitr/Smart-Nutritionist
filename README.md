@@ -6,3 +6,6 @@ Features
 🔢 Calorie Estimation – Provides an estimated calorie count based on recognized food items.
 🤖 AI-Powered Analysis – Uses deep learning models for accurate food detection and calorie prediction.
 📊 Nutritional Insights – Offers additional details like protein, fats, and carbohydrates.
+
+
+APP Deployed on Streamlit - https://smart-nutritionist-ygubvmy65k4hz8kzfyspqk.streamlit.app/
